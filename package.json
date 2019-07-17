@@ -1,7 +1,7 @@
 {
-  "name": "zazu-template",
-  "version": "1.0.0",
-  "description": "Zazu Template for starting your own plugin.",
+  "name": "service-session",
+  "version": "0.0.1",
+  "description": "Plugin to make it easier to log to service session",
   "main": "zazu.js",
   "scripts": {
     "lint": "eslint .",
